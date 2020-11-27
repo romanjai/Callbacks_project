@@ -1,0 +1,5 @@
+com\romanjaik\CallbackService.class
+com\romanjaik\Callback.class
+com\romanjaik\SpringBootRestCallbackApplication.class
+com\romanjaik\ICallbackService.class
+com\romanjaik\CallbackController.class
